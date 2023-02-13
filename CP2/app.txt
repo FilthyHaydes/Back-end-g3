@@ -1,0 +1,8 @@
+Whole database purpose is student course map which will show his marks and courses,
+There is five entities in database.
+1 Student, 2 StudSubjects, 3 Subjects, 4 Marks, 5 Final mark
+As a student i can see available subjects
+As a student i can choose what subject to register to
+As a student i can see the final results
+As admin i can idd students mark
+as admin i can add subjects
